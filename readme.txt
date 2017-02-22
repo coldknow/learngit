@@ -5,4 +5,4 @@ Git is free software.
 Git has a mutable index called stage.
 Git tracks changes.
 Cradting a new branch is quick.
-crafting a new branch is quick & simple.
+Crating a new branch is quick anda simple.
